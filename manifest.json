@@ -1,0 +1,10 @@
+{
+	"id": "note-open-counter",
+	"name": "Note Open Counter",
+	"version": "0.1.0",
+	"description": "Counts the number of times a note has been opened.",
+	"author": "Nils Petter Brekke",
+	"minAppVersion": "0.13.31",
+	"isDesktopOnly": false,
+	"main": "main.js"
+  }
